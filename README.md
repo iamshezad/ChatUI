@@ -13,7 +13,7 @@ A simple chat app UI designed in SwiftUI
 </p>
 
 <p align="center">
-    <img src="https://github.com/iamshezad/ChatUI/Resources/Main-screenshot.png?raw=true" style="display: block; margin: auto;"/>
+    <img src="https://github.com/iamshezad/ChatUI/blob/main/Resources/Main-screenshot.png?raw=true" style="display: block; margin: auto;"/>
 </p>
 <p align="center"> ChatUI on both ☀️light and 🌑 dark mode. </p>
 
