@@ -21,7 +21,7 @@ A simple chat app UI in SwiftUI
 ## About
 ChatUI is a simple project created to implement some of the things i learned in SwiftUI. Currently i'm learning SwiftUI so i thought of converting my learnings into small projects. 
 
-ChatUI is just a UI design of a chat app with some hardcoded data. So this small project might help other to learn a little about designing in SwiftUI.
+ChatUI is just a UI design of a chat app with some hardcoded data. So this small project might help others to learn a little about designing in SwiftUI.
 
 This sample project contains chats, calls, contacts and settings screens. will list out below what all i have used in this project:
 
