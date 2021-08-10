@@ -13,7 +13,7 @@ struct SearchView: View {
     
     var body: some View {
         VStack{
-            HStack {
+
                 HStack {
                     Image(systemName: "magnifyingglass")
                     
@@ -30,7 +30,7 @@ struct SearchView: View {
                 .foregroundColor(.secondary)
                 .background(Color("color_bg_inverted").opacity(0.05))
                 .clipShape(Capsule())
-            }
+            
         }
         .padding(.vertical)
     }
